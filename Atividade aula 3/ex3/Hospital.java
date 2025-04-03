@@ -1,6 +1,5 @@
-//Faça uma classe para uma montadora de automóveis.
-public class Montadora {
-    public Montadora(String nome, String endereco, int cnpj) {
+public class Hospital {
+    public Hospital(String nome, String endereco, int cnpj) {
         Nome = nome;
         Endereco = endereco;
         CNPJ = cnpj;
